@@ -1,0 +1,24 @@
+h1. Hosting compatible with Node
+
+# "WebFaction":http://webfaction.com
+# "Heroku":http://heroku.com/ - Closed Beta
+# "ElusiveHippo":http://elusivehippo.com/ - Not Working
+# "Prgmr":http://prgmr.com/
+# "Slicehost":http://www.slicehost.com/
+# "Linode":http://www.linode.com/
+# "Amazon EC2":http://aws.amazon.com/ec2/
+# "Rackspace Cloud":http://www.rackspacecloud.com/
+# "VPS.Net":https://www.vps.net/vps-signup
+# "Joyent":http://www.joyent.com/services/cloudhosting/
+# "no.de":http://no.de - Closed Beta
+# "DreamHostPS":http://www.dreamhost.com/hosting-vps.html - Need a total reconfiguration of virtual machines
+# "Webbynode":http://www.webbynode.com/ - "setup guide here":http://blog.dtrejo.com/nodejs-for-server-newbs - "deployment guide":http://guides.webbynode.com/articles/rapidapps/nodejs.html - "screencast":http://vimeo.com/15406437
+# "Gandi":http://en.gandi.net/hosting/
+# "BuyVM":http://www.buyvm.net/
+# "Oversun Scalaxy":http://www.scalaxy.ru/ - Site in Russian
+# "Duostack":http://www.duostack.com/
+# "NodeJsCloud":http://www.nodejscloud.com/ - Beta Coming Soon (accepting signups)
+# "Nodejitsu":http://nodejitsu.com/ - Beta Coming Soon (accepting signups)
+
+
+Most of the above are just VPS providers, which require you to set everything up yourself, including the operating system.
