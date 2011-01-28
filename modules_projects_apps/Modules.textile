@@ -484,6 +484,7 @@ h3(#api-clients). "API clients":#api-clients
 * "lastfm-node":http://github.com/jammus/lastfm-node -- Read and write to users' recent plays on Last.fm
 * "linkedin-js":http://github.com/masylum/linkedin-js -- Easy peasy linkedin client for connect.
 * "node-apn":http://github.com/argon/node-apn -- A library to send messages using the Apple Push Notification Service.
+* "node-c2dm":http://github.com/SpeCT/node-c2dm -- A library to send messages using the Android Cloud to Device Messaging (C2DM) service.
 * "node-bitly":http://github.com/tanepiper/node-bitly -- A bit.ly API library for node.js - provides URL shortening/expanding.  Features full API.
 * "node-flickr":http://github.com/edds/node-flickr -- A simple library to enable easy use of the flickr api
 * "node-github":http://github.com/ajaxorg/node-github -- A wrapper for the "GitHub API":http://develop.github.com/
@@ -504,13 +505,15 @@ h3(#api-clients). "API clients":#api-clients
 * "akismet-js":https://github.com/oozcitak/akismet-js -- A client for the "Akismet spam detection API":http://akismet.com/development/api/
 * "spotify":http://github.com/roncioso/node-spotify-metadata -- Spotify api wrapper. Metadata lookup and search. Works with Spotify and http uris
 * "node-mailchimp":http://github.com/gomfunkel/node-mailchimp -- A wrapper for the MailChimp API, MailChimp Export API and MailChimp Webhooks
+* "ranger":http://github.com/mrduncan/ranger/ -- A simple library which wraps Campfire's API
 
 h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "async.js":http://github.com/fjakobs/async.js -- Async chaining and file system utilities. Async.js is to node's fs module, what jQuery is to the DOM.
 * "async":http://github.com/caolan/async -- Comprehensive async map/reduce and flow control (parallel, series, waterfall, auto...) module that works in node and the browser
 * "chainsaw":https://github.com/substack/node-chainsaw -- Build chainable fluent interfaces the easy way in node.js
-* "fiberize":https://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
+* "fiberize":http://github.com/lm1/node-fiberize -- Node API wrapper for use with fibers.
 * "fibers":https://github.com/laverdet/node-fibers -- The closest thing to a thread you'll find in Javascript
+* "fibers-promise":http://github.com/lm1/node-fibers-promise -- Small yet powerful promises based on fibers.
 * "flow-js":http://github.com/willconant/flow-js -- Continuation-esque contruct for expressing multi-step asynchronous logic
 * "funk":http://github.com/masylum/funk -- Asynchronous parallel functions made funky!
 * "futures":http://github.com/coolaj86/futures - Asynchronous Method Queueing, Futures, Promises, Subscriptions, and other async goodies
@@ -520,9 +523,11 @@ h3(#async-flow). "Flow control / Async goodies":#async-flow
 * "node-cron":http://github.com/ncb000gt/node-cron -- Schedule callbacks with cron syntax
 * "node-crontab":http://github.com/dachev/node-crontab -- Allows reading, manipulating, and writing user crontabs from node.js
 * "node-inflow":http://github.com/shimondoodkin/node-inflow -- A next generation async control-flow library, with a shared object for called functions and debugging made easy.
+* "node_memo":http://github.com/akidee/node_memo -- Asynchronous function memoization
 * "node-parallel":http://github.com/Tim-Smart/node-parallel -- Create tasks in node.js that run in parallel, or sequences that run tasks one after another.
 * "node-promise":http://github.com/kriszyp/node-promise -- Robust promises for node.js, includes promise utilities and promise-based I/O library
 * "seq":https://github.com/substack/node-seq -- Chainable asynchronous flow control for node.js with sequential and parallel primitives and pipeline-style error handling
+* "sexy":http://github.com/crabdude/sexy -- Proxy (ES5) for writing sequential asynchronous code in a synchronous style
 * "Slide":http://github.com/isaacs/slide-flow-control  -- A flow control library that fits in a slide presentation
 * "soda.js":http://github.com/tomyan/soda -- Asynchonous JavaScript module loader for client-side and Node.js
 * "Step":http://github.com/creationix/step -- Tool for grouping and chaining asynchronous callbacks, based on "flow-js":http://github.com/willconant/flow-js
@@ -592,7 +597,9 @@ h3(#other). "Other":#other
 * "node-iconv":http://github.com/bnoordhuis/node-iconv -- iconv bindings, character encoding conversion made easy.
 * "node_mailer":http://github.com/marak/node_mailer -- send emails from node.js to an smtp server, simple as cake 
 * "node-fork":http://github.com/ryantenney/node-fork -- C bindings to fork or daemonize the process.
+* "node-genx":https://github.com/wezm/node-genx -- XML generation via the Genx C libary
 * "node-geoip":http://github.com/strange/node-geoip -- geoip city lookup module (uses libgeoip)
+* "node-gnomenotify":http://github.com/bodil/node-gnomenotify -- C++ bindings for GNOME libnotify on-screen notifications
 * "node-growl":http://github.com/visionmedia/node-growl -- unobtrusive notification system (growlnotify "bindings")
 * "node-libnotify":http://github.com/mitkok/node-libnotify -- unobtrusive notification system (libnotify "bindings")
 * "node-logger":http://github.com/quirkey/node-logger -- Simple logging like Ruby's logger.rb and console.log
