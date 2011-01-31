@@ -34,7 +34,6 @@ h2. Projects and Applications
 * "GrowlHub":http://github.com/idris/growlhub - Growl Notifications for GitHub
 * "Simple Node.js MUD":http://github.com/gumho/simple-node.js-mud - Simple multi-user dungeon using Node.js
 * "wtfjs":http://github.com/brianleroux/wtfjs - what the fuck javascript!
-* "node.ly":http://github.com/giacecco/node.ly - A simple URL shortener written in Node.js and SQLIte3 (moving to CouchDB in future version 2)
 * "vertex.js":http://github.com/stevedekorte/vertex.js - A graph database inspired by filesystems built on node.js and tokyocabinet.
 * "The API Playground":http://github.com/jashkenas/api-playground - A website where journalists can play with API examples. (CoffeeScript/Express) "apiplayground.org":http://apiplayground.org
 * "Szpil":https://szpil.com - CRM using Node and TokyoCabinet. Shared client/server database and model code, user interface decoupled from the network, API retrieval and authorization performed at the meta-data layer using set union and intersection on indexes to avoid JSON deserialization/serialization overhead.
@@ -72,11 +71,12 @@ h2. Projects and Applications
 * "Fishl.com":http://fishl.com/ — Mark and save quotes you like all over the Web
 * "slyncr":http://cleverchris.com/slyncr/ — bookmarklet to control web slideshows via a remote site
 * "Applifier - Largest social game cross promo network)":http://www.applifier.com (reference <a href="http://twitter.com/jussil/status/12048190433918976">http://twitter.com/jussil/status/12048190433918976</a>)
-* "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached for Node.js
+* "memcached.js":https://github.com/dalssoft/memcached.js — Port of Memcached server for Node.js
 * "Loggly":http://loggly.com/ — Webservice for receiving syslog and HTTP based logs.
 * "spotted@":http://spotted.at/ — spotted @ provides local classifieds for jobs, housing, for sale, personals, services, local community, and events.
 * "designo":https://github.com/kazuyukitanimura/designo — Realtime Twitter client demo exploiting Node.js+Websockets+HTML5
-
+* "Bittorrent Tracker":https://github.com/anhel/node-bittorrent-tracker - High performance bittorrent tracker by anhel
+* "The-M-Project":https://github.com/mwaylabs/the-m-project - HTML5 JavaScript framework for mobile apps with nodeJS build tool
 
 h2. Companies
 * "Academia.edu":http://www.academia.edu/ - uses node for background data processing
@@ -109,6 +109,7 @@ h2. Companies
 * "LinkiT projects":http://linkit-projects.nl - Use nodejs for developing javascript sites. (http://yalia.nl/
 * "Medium":http://thisismedium.com
 * "Mockingbird":http://gomockingbird.com -- Using Node.js and operational transformations to do real-time, collaborative wireframing
+* "M-Way Solutions":http://www.mwaysolutions.com -- Developing node.js based build tools for The-M-Project
 * "MyBrands":http://www.mybrands.de -- web-tracker and product recommendations (node + couchdb)
 * "NewsBasis":http://newsbasis.com -- Web crawler and async work in node
 * "Newspaper Club":http://www.newspaperclub.co.uk - Uses node.js for wrapping a nasty SOAP interface to InDesign Server.
