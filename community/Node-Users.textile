@@ -573,6 +573,8 @@ h2. UTC+5
 ** "Twitter":http://twitter.com/shreekavi, "GitHub":http://github.com/shreekavi/
 * Shripad K (shripadk), India
 ** "Twitter":http://twitter.com/24shri, "GitHub":http://github.com/shripadk/
+* Rajkumar Jegannathan (dezmozz), India
+** "Twitter":http://twitter.com/dezmozz, "GitHub":http://github.com/dezmozz/
 
 h2. UTC+6
 
